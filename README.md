@@ -7,7 +7,7 @@ This repo contains the code for "Beware of Calibration Data for Pruning Large La
 ## Quick start
 
 ### Data
-https://drive.google.com/file/d/1d37_LYKEXF_rozdbqSSpDU-u0lgsno__/view?usp=drive_link
+[https://drive.google.com/file/d/1d37_LYKEXF_rozdbqSSpDU-u0lgsno__/view?usp=drive_link](https://drive.google.com/drive/folders/1xb--58A6UodvGNfJS0TVLQPrVYitF2QA?usp=drive_link)
 
 The file ``wikipedia_5k.json`` contains 5,000 raw texts, while ``wikipedia_dclm_selfgen_filter.json`` and ``wikipedia_qwen_selfgen_filter.json`` are datasets generated and filtered from the raw texts using DCLM-7B and Qwen2.5-7B, respectively.
 
